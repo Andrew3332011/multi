@@ -124,13 +124,6 @@ p {
     color: #101010;
 }
 
-.koko_img {
-    margin-top: 99px;
-}
-
-.koko_inform {
-    padding-top: 125px;
-}
 
 .moa {
     display: flex;
@@ -182,12 +175,4 @@ p {
     line-height: 130%;
     letter-spacing: 0.03em;
     color: #101010;
-}
-
-.moa_img {
-    margin-top: 99px;
-}
-
-.moa_inform {
-    padding-top: 125px;
 }
